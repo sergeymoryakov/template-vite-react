@@ -1,0 +1,107 @@
+/* @import "./general-sans.css"; */
+
+:root {
+    --black: #1d1d1d;
+    --black-gray: #272727;
+    --royal-blue: #0047ff;
+    --fire-red: #c52300;
+    --gray: #7e7e7e;
+    --medium-gray: #bdbdbd;
+    --sky-gray: #cad0d6;
+    --white: #ffffff;
+    --black-gradient: linear-gradient(
+        146deg,
+        #151515 6.46%,
+        #2c2c2c 53.91%,
+        #000 90.82%
+    );
+    --br-gradient: linear-gradient(146deg, #0047ff, #c52300);
+
+    font-family: "GeneralSans-Variable";
+    font-size: 6px;
+
+    color: var(--white);
+    background: var(--black-gray);
+}
+
+@media (min-width: 380px) {
+    :root {
+        font-size: xx-small;
+    }
+}
+
+@media (min-width: 480px) {
+    :root {
+        font-size: x-small;
+    }
+}
+
+@media (min-width: 575px) {
+    :root {
+        font-size: small;
+    }
+}
+
+@media (min-width: 800px) {
+    :root {
+        font-size: medium;
+    }
+}
+
+@media (min-width: 1200px) {
+    :root {
+        font-size: large;
+    }
+}
+
+@media (min-width: 1600px) {
+    :root {
+        font-size: x-large;
+    }
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100svh;
+    background: var(--black-gradient);
+    /* background: var(--black-gray); */
+}
+
+h1 {
+    padding: 1rem 0;
+    font-size: 9.5rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 7.5rem;
+    letter-spacing: -0.57rem;
+}
+
+h2 {
+    padding: 0.5rem 0;
+    font-size: 6rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 5rem;
+    letter-spacing: -0.36rem;
+}
+
+h3 {
+    padding: 0.25rem 0;
+    font-size: 4rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 3.5rem;
+    letter-spacing: -0.12rem;
+}
+
+p {
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1rem;
+}

@@ -1,0 +1,45 @@
+@keyframes bg-animation {
+    0% {
+        background-position: left;
+    }
+    100% {
+        background-position: right;
+    }
+}
+
+.container {
+    padding: 3rem;
+    max-width: 1400px;
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    gap: 2rem;
+    border: 1.5px solid var(--fire-red);
+    border-radius: 1.5rem;
+}
+
+.horisontal-box {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+.logo {
+    max-height: 11rem;
+}
+
+.logo-3d {
+    max-height: 11rem;
+    /* background: transparent; */
+    /* width: 100%;
+    height: 100%; */
+}
+
+.text-gradient {
+    background: var(--br-gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-size: 500%;
+    animation: bg-animation 20s infinite alternate;
+}
