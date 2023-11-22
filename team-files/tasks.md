@@ -32,7 +32,7 @@
         Status: Created repository [kza-mobile](git@github.com:sergeymoryakov/kza-mobile.git)
 
 12. [ ] **Mobile: Set Folders Structure**
-13. [ ] **Mobile: Set Custom Styles**
+13. [ ] [ ] **Mobile: Set Custom Styles**
 14. [ ] **Mobile: Set Custom Fonts**
 15. [ ] **Mobile: Set Visuals (Images/3Ds)**
 16. [ ] **Mobile: Set Common Elements/Components (Buttons, Cards, etc.)**
