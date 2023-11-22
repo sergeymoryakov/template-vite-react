@@ -10,7 +10,7 @@
        Status: Agreed to proceed with Vanilla
 
 3. [ ] **Desktop: Create GitHub Repository**
-       Status: Created repository [kza-desktop](git@github.com:sergeymoryakov/kza-desktop.git)
+       Status: Created repository [kza-desktop](https://git@github.com:sergeymoryakov/kza-desktop.git)
 4. [ ] **Desktop: Set Folders Structure**
 5. [ ] **Desktop: Set Custom Styles**
 6. [ ] **Desktop: Set Custom Fonts**
@@ -29,7 +29,7 @@
 -   [ ] **Build Section: Footer**
 
 11. [ ] **Mobile: Create GitHub Repository**
-        Status: Created repository [kza-mobile](git@github.com:sergeymoryakov/kza-mobile.git)
+        Status: Created repository [kza-mobile](https://git@github.com:sergeymoryakov/kza-mobile.git)
 
 12. [ ] **Mobile: Set Folders Structure**
 13. [ ] **Mobile: Set Custom Styles**
