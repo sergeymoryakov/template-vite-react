@@ -1,0 +1,28 @@
+Проект Самолет
+
+Задача
+Разработка сайта для компании Karagoz Aviation LLC.
+
+Макет сайта
+https://www.figma.com/file/l5cLjm5T96sxnAjq5EkNiL/Karagoz-(Ready-Team)?type=design&t=o9YLnn8Ug4CY70vC-6
+
+Задачи на русском языке
+https://github.com/sergeymoryakov/kza-website/blob/7d9ce13d60708ccfa328f4392ed3bc897900e0f7/team-files/tasks-ru.md
+
+Задачи на английском языке
+https://github.com/sergeymoryakov/kza-website/blob/7d9ce13d60708ccfa328f4392ed3bc897900e0f7/team-files/tasks-en.md
+
+Стартовый репозиторий
+https://github.com/sergeymoryakov/kza-website
+
+Репозиторий для отработки десктоп-версии
+https://github.com/sergeymoryakov/kza-desktop
+
+Репозиторий для отработки мобильной версии
+https://github.com/sergeymoryakov/kza-mobile
+
+Доменное имя
+https://karagozaviation.com
+
+Хостинг
+https://www.namecheap.com
