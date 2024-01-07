@@ -4,8 +4,8 @@ import LOGO_3D_SAFARI from "../../assets/logo-transparent-hevc-safari.mp4";
 import LOGO_3D_CHROME from "../../assets/logo-transparent-vp9-chrome.webm";
 // import AIRCRAFT_3D_SAFARI from "../../assets/aircraft-hevc-safari.mp4";
 // import AIRCRAFT_3D_CHROME from "../../assets/aircraft-vp9-chrome.webm";
-import ENGINE_3D_SAFARI from "../../assets/engine-hevc-safari.mp4";
-import ENGINE_3D_CHROME from "../../assets/engine-vp9-chrome.webm";
+// import ENGINE_3D_SAFARI from "../../assets/engine-hevc-safari.mp4";
+// import ENGINE_3D_CHROME from "../../assets/engine-vp9-chrome.webm";
 import "./ComingSoon.css";
 
 function ComingSoon() {
